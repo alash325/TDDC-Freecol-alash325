@@ -82,7 +82,6 @@ public class SoundTest extends FreeColTestCase {
         // these sounds are base resources, and should be enough for a test
         playSound("sound.intro.general");
         // other sounds require loading a rule set
-        //
     }
 
     public void testClassic() {
